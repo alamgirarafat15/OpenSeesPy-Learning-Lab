@@ -1,0 +1,14 @@
+Member,Node_i,Node_j,Axial_Force_kN,Behavior
+1,1,2,-23.75,Compression
+2,2,3,-23.75,Compression
+3,3,4,-21.25,Compression
+4,4,5,-21.25,Compression
+5,5,6,30.05,Tension
+6,6,7,27.95,Tension
+7,7,8,27.95,Tension
+8,1,8,33.59,Tension
+9,2,8,-10.0,Compression
+10,3,7,-25.0,Compression
+11,4,6,-5.0,Compression
+12,3,8,-1.77,Compression
+13,3,6,-5.3,Compression
